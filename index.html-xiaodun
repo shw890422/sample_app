@@ -1,8 +1,8 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
-<title>果实网——视频会议</title>
+<title>校盾——视频会议</title>
 <meta name="description" content="BigBlueButton enables universities and colleges to deliver a high-quality learning experience to remote students."/>
 <meta name="keywords" content="BigBlueButton, Open Source Web Conferencing, Distance Education, Courses Online, Web Conferencing, Open Source, Desktop Sharing, Video Conferencing, Video Collaboration, Presentation Sharing, Audio Sharing, Voice Collaboration, Public Chat, Webcam Sharing, Annotation, Whiteboard, Integrated Voice Over IP, Collaboration Software, Online Collaboration, Collaborative Learning, Virtual Classroom">
 <link rel="stylesheet" href="css/style.css" type="text/css"/>
@@ -63,11 +63,11 @@
         <img src="images/bbb-overview.png" alt="Overview" title="Overview"/>
       </div>
       <div id="welcome" class="f-left">	
-        <h1>欢迎来到 果实网——视频会议</h1>
-        <p>果实网———视频会议 是一个开源在线学习网络会议系统。</p>
-        <p>果实网———视频会议 使您共享文档（PDF和Office文档），摄像头，聊天，音频，和你的桌面。bigbluebutton还可以记录你的会话用于以后回放。</p>
+        <h1>欢迎来到 校盾——视频会议</h1>
+        <p>校盾———视频会议 是一个开源在线学习网络会议系统。</p>
+        <p>校盾———视频会议 使您共享文档（PDF和Office文档），摄像头，聊天，音频，和你的桌面。bigbluebutton还可以记录你的会话用于以后回放。</p>
 
-	<p>果实网———视频会议 项目由开发商友好的设计和流畅的用户体验。</p>
+	<p>校盾———视频会议 项目由开发商友好的设计和流畅的用户体验。</p>
       </div>
       <div class="clearfix"></div>
 	 </div>
