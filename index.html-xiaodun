@@ -1,0 +1,79 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+<title>果实网——视频会议</title>
+<meta name="description" content="BigBlueButton enables universities and colleges to deliver a high-quality learning experience to remote students."/>
+<meta name="keywords" content="BigBlueButton, Open Source Web Conferencing, Distance Education, Courses Online, Web Conferencing, Open Source, Desktop Sharing, Video Conferencing, Video Collaboration, Presentation Sharing, Audio Sharing, Voice Collaboration, Public Chat, Webcam Sharing, Annotation, Whiteboard, Integrated Voice Over IP, Collaboration Software, Online Collaboration, Collaborative Learning, Virtual Classroom">
+<link rel="stylesheet" href="css/style.css" type="text/css"/>
+</head>
+<body>
+<!-- Header Start -->
+<div id="header">
+		<div id="logo">
+			<img src="images/bbb_logo.png" alt="bbb_logo" width="278" height="69" title="BigBlueButton Demo Server" alt="BigBlueButton Demo Server"/>
+		</div>
+		<div class="social-links f-right">
+		</div>
+		<div class="clearfix"></div>
+</div>
+<!-- Content Start -->
+<div id="main">
+	<div id="main_content">
+	
+	
+    <div id="main_content_bottom">
+      <p class="subhead">看下面的视频很快就能上手。</p>
+  
+      <div class="videos">
+      <div class="row">
+        <div class="video-item">
+        	<img src="images/presenter_overview.png" alt="教师/主讲人 概述" title="教师/主讲人 概述" width="265" height="215"/>
+        	<h3>教师/主讲人 <br> 概述</h3>
+        </div>
+    
+        <div class="video-item">
+        	<img src="images/student_overview.png" alt="学习者概述" title="学习者概述" width="265" height="215"/>
+        	<h3>学习者概述</h3>
+        </div>
+    
+        <div class="video-item">
+        	<img src="images/developer_overview.png" alt="开发人员概述" title="开发人员概述" width="265" height="215"/>
+        	<h3>开发人员概述</h3>
+        </div>
+      <div class="clearfix"></div>
+      </div>
+      </div>
+
+    </div>
+  <div id="main_content_join">	 
+    <div class="join_form">
+      <h2>加入会议</h2>
+      <form name="form1" method="GET" onsubmit="return checkform(this);" action="/demo/demo1.jsp">
+        <input type="text" id="username" required name="username" placeholder="请输入您的名字" size="29" class="field"/>
+        <input type="submit" value="加入" class="submit_btn" class="submit_btn"/><br/>
+        <input type="hidden" name="action" value="create">
+      </form>
+      <div class="clearfix"></div>
+    </div>
+  </div>
+
+	 <div id="main_content_top">
+      <div class="f-left">
+        <img src="images/bbb-overview.png" alt="Overview" title="Overview"/>
+      </div>
+      <div id="welcome" class="f-left">	
+        <h1>欢迎来到 果实网——视频会议</h1>
+        <p>果实网———视频会议 是一个开源在线学习网络会议系统。</p>
+        <p>果实网———视频会议 使您共享文档（PDF和Office文档），摄像头，聊天，音频，和你的桌面。bigbluebutton还可以记录你的会话用于以后回放。</p>
+
+	<p>果实网———视频会议 项目由开发商友好的设计和流畅的用户体验。</p>
+      </div>
+      <div class="clearfix"></div>
+	 </div>
+</div>
+</div>
+
+<!-- Content End -->
+</body>
+</html>
